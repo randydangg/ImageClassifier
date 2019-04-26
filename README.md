@@ -1,2 +1,2 @@
 # ImageClassifier
-A image classifying software
+An image classifying software
